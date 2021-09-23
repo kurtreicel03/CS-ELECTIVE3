@@ -22,7 +22,7 @@
       </div>
       <div class="row">
         <div class="col-4">
-          <img src="images/product-1.jpg" alt="product" />
+          <a href="product-detail.php"><img src="images/product-1.jpg" alt="product" /></a>
           <h4>Red Printed T-Shirt</h4>
           <div class="rating">
             <i class="fa fa-star" aria-hidden="true"></i>
